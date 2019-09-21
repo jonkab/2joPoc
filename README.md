@@ -1,2 +1,2 @@
-# 2joPoc
+# styleguide aigis
 Library case demonstration style css.
